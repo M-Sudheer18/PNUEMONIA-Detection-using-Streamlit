@@ -5,7 +5,7 @@
 ### *Deep Learning Powered Pneumonia Detection from Chest X-Ray Images*
 
 <!-- Optional: Add a banner image in assets/banner.png -->
-<!-- <img src="assets/banner.png" width="900"/> -->
+<img src="assets/banner.png" width="900"/> 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pnuemonia-detection-cnn-vgg.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
