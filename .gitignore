@@ -1,0 +1,7 @@
+xray_env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+test_images/
+models/
+uploads/

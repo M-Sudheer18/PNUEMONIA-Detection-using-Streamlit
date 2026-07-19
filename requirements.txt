@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+keras
+numpy
+pillow
+huggingface_hub
+h5py
+pandas
